@@ -27,7 +27,7 @@ const Home = () => {
         Organize your team with our{" "}
         <span className="text-black font-semibold text-[21px]">OpenHRMS</span>
       </p>
-      <h1 className="text-4xl text-center jost md:text-8xl">
+      <h1 className="text-4xl text-center jost md:text-8xl p-4 ">
         Human Resource Management Systems
       </h1>
       <p className="text-center md:text-2xl md:w-[600px] mt-7 text-xl w-[380px]">
